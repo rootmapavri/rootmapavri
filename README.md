@@ -1,1 +1,1 @@
-- he/him
+- Kutsal toprak Mapavri'den
