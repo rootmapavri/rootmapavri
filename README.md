@@ -1,2 +1,2 @@
-- Kutsal toprak Mapavri'den 🤘🏼
+- From Mapavri, the holy land 🤘🏼
 - I love half life 💀
