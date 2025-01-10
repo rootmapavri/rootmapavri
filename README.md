@@ -1,8 +1,7 @@
 - From Mapavri, the holy land 🤘🏼
 - I love Half Life 💀
 
-![Metalhead](https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif)
-
+![](https://media.tenor.com/nCWKmjQRFvkAAAAj/metalhead-metal.gif)
 
 
 ```
