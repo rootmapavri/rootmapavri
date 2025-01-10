@@ -17,4 +17,3 @@
 }
 ```
 
-![snark](https://github.com/user-attachments/assets/0fbe5ad1-2a22-4c5c-a1a9-6304cbb3ba26)
