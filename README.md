@@ -1,1 +1,2 @@
-- Kutsal toprak Mapavri'den
+- Kutsal toprak Mapavri'den 🤘🏼
+- I love half life 💀
