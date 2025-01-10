@@ -1,5 +1,5 @@
 - From Mapavri, the holy land 🤘🏼
-- I love half life 💀
+- I love Half Life 💀
 
 ```
 {
