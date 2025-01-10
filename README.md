@@ -16,4 +16,6 @@
   }
 }
 ```
-![snark](https://github.com/user-attachments/assets/c90c271a-a8a2-4efc-b244-202e1bc3433f)
+
+
+![Image title]((https://github.com/user-attachments/assets/c90c271a-a8a2-4efc-b244-202e1bc3433f)){ .image25percent }
