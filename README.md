@@ -1,4 +1,4 @@
-### From Mapavri, the holy land 🤘🏼
+### from Mapavri, the holy land 🤘🏼
 #### I love Half Life 💀
 
 ```
