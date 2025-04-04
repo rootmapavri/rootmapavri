@@ -2,7 +2,7 @@
 
 ```
 {
-  "Alazul": {
+  "Alparslan": {
     "pronoun": "he/him/his",
     "birthday": "1996-06-29",
     "country": "Turkey",
